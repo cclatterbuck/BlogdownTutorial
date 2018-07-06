@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Marine Conservation",
+    "Animal Movement",
+    "Chemical Indicators"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Ecology"
+  institution = "San Diego State University & University of California, Davis"
+  year = current
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Biological Sciences"
+  institution = "San Jose State University"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BA in Biology & Anthropology"
+  institution = "Transylvania University"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Corey Clatterbuck is a PhD Candidate at the Conservation Ecology Lab at SDSU. Her research addresses the effects of anthropogenic change to ocean and coastal environments to better predict and, hopefully, prevent future chemical pollution in marine systems. She is the Student Representative of Pacific Seabird Group and leads the Diversity & Inclusion student group in the SDSU Biology graduate program, which works to make biology more accessible and equitable for all participants.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
